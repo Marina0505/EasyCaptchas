@@ -1,2 +1,3 @@
 # EasyCaptchas
-Simple and easy to add captchas on your php project
+Simple Captchas pour vos projets.
+<br>Rédigé sur Notepad++.
